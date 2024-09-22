@@ -76,8 +76,7 @@ let bewDiw= document.querySelector(".FlexDiv")
  let spamishe= document.querySelector(".spamishe")
  let newBtn = document.getElementById("ale").addEventListener("click",()=>{
     //если ктото читает код уберите цикл отсюда иначе смерт:)
-    let i =0;
-    while(i<1){console.log(z)}
+    
     z+=10;
     x+=10;
     let r = x + "px";
