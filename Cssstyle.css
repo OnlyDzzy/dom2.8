@@ -1,0 +1,16 @@
+.body{
+    display: flex;
+   justify-content: center;
+}
+.mainDiv__new{
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+    border: 3px solid black;
+}
+.FlexDiv{
+
+    width: 400px;
+    height: 300px;
+    border: 2px solid;
+}
